@@ -46,5 +46,5 @@ Jupyter Notebook, MS Excel, MS Power BI
 # LinkedIn Post 📲
 https://www.linkedin.com/feed/update/urn:li:activity:6859518539053744128/
 
-# Youtube Video 🎬
-https://www.youtube.com/watch?v=7KPqScLw4eY&t=1s
+# Video 🎬
+https://drive.google.com/file/d/1a9Ct-LIFtwT_JNDdfkIXcbN_OMKI3Bau/view?usp=share_link
